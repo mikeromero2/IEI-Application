@@ -1,6 +1,6 @@
 # IEI Application repository:
 
-#### Backend Application for IEI with integrations for Stripe, Canvas & AWS microservices
+#### IEI Application with integrations for Stripe, Canvas & AWS microservices
 
 ---
 
