@@ -33,7 +33,7 @@
 
 ### Roles:
 
-#### student:
+#### -student:
 
 - view classes + programs
 - contact teachers 
@@ -43,7 +43,7 @@
     - contact info, etc (public to teachers)
     - registrations/payments/settings (private)
 
-##### teacher:
+#### -teacher:
 
 - Attendance/roll call
 - printable attendance sheets
@@ -53,12 +53,12 @@
 - view student overview (attendance, grades, status, payment)
 - view student profiles
 
-##### employer:
+#### -employer:
 
 - register employees (employee ==> modified student role)
 - view employee results/transcripts
 
-##### admin:
+#### -admin:
 
 - organize programs/courses
 - create teacher accounts
