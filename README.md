@@ -36,6 +36,7 @@
 #### -student:
 
 - view classes + programs
+- register for classes
 - contact teachers 
 - printable transcripts
 - Profile:
