@@ -1,22 +1,21 @@
-# IEI Application repository
+# IEI Application repository:
 #### Backend Application for IEI with integrations for Stripe, Canvas & AWS microservices
 ___
 
-# Development Quote
-## & Feature Summary:
+# Development Quote:
 
-#### $160 / month: (hosting / maintanence / backups)
-    * $70 - canvas
-    * $60 - SIS
-    * $15 - Messaging
-    * $5 - Payment system
-    * $10 - backups
+### $160 / month: (hosting / maintanence / backups)
+  * $70 - canvas
+  * $60 - SIS
+  * $15 - Messaging
+  * $5 - Payment system
+  * $10 - backups
 
-#### $2,000 dev cost: (Backend applications) + Integrations
-    * $500 - canvas integration
-    * $1000 - SIS
-    * $200 - Messaging
-    * $300 - Payment system
+### $2,000 dev cost: (Backend applications) + Integrations
+  * $500 - canvas integration
+  * $1000 - SIS
+  * $200 - Messaging
+  * $300 - Payment system
 
 ## Features & cost break down:
 
