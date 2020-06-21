@@ -70,7 +70,7 @@
 ---
 
 
-## canvas lms server + SIS integration:
+## canvas lms server + integration:
 
 - ($70 / month + $500 dev cost)
 
