@@ -65,11 +65,19 @@
 - assign classes to teachers
 - manually override student registration
 
+
+
+
+
 ## canvas lms server + SIS integration:
 
 - ($70 / month + $500 dev cost)
 
 - Unlimited Usage
+
+
+
+
 
 ## messaging / communication system:
 
@@ -91,6 +99,9 @@
 - 5,000 e-mails per month
 - unlimited PMs
 
+
+
+
 ## payment gateway integration ( stripe )
 
 - ($5 / month + $300 dev cost)
@@ -101,5 +112,7 @@
 - coupons
 - payment plans
 
-System & Data Backups:
+
+
+## System & Data Backups:
 ($10 / month)
