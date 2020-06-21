@@ -16,7 +16,7 @@
 
 ### \$2,000 dev cost: (Backend applications) + Integrations
 
-- \$500 - canvas integration
+- \$500 -  canvas + front-end integrations
 - \$1000 - Student Information System (SIS)
 - \$200 - Messaging (sms / email / PM)
 - \$300 - Payment system
