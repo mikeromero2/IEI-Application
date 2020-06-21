@@ -35,13 +35,13 @@
 
 #### student:
 
-- -view classes + programs
-- -contact teachers (private messaging)
-- -printable transcripts
+- view classes + programs
+- contact teachers 
+- printable transcripts
 - Profile:
-    - -programs/majors (public to teachers)
-    - -contact info, etc (public to teachers)
-    - -registrations/payments/settings (private)
+    - programs/majors (public to teachers)
+    - contact info, etc (public to teachers)
+    - registrations/payments/settings (private)
 
 ##### teacher:
 
@@ -66,7 +66,7 @@
 - manually override student registration
 
 
-
+---
 
 
 ## canvas lms server + SIS integration:
@@ -76,7 +76,7 @@
 - Unlimited Usage
 
 
-
+---
 
 
 ## messaging / communication system:
@@ -99,7 +99,7 @@
 - 5,000 e-mails per month
 - unlimited PMs
 
-
+---
 
 
 ## payment gateway integration ( stripe )
@@ -112,7 +112,7 @@
 - coupons
 - payment plans
 
-
+---
 
 ## System & Data Backups:
 ($10 / month)
