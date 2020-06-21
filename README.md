@@ -9,16 +9,16 @@
 ### \$160 / month: (hosting / maintanence / backups)
 
 - \$70 - canvas
-- \$60 - SIS
-- \$15 - Messaging
+- \$60 - Student Information System (SIS)
+- \$15 - Messaging (sms / email / PM)
 - \$5 - Payment system
 - \$10 - backups
 
 ### \$2,000 dev cost: (Backend applications) + Integrations
 
 - \$500 - canvas integration
-- \$1000 - SIS
-- \$200 - Messaging
+- \$1000 - Student Information System (SIS)
+- \$200 - Messaging (sms / email / PM)
 - \$300 - Payment system
 
 ---
